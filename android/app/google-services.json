@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450177745944",
+    "project_id": "attendance-system-a5db3",
+    "storage_bucket": "attendance-system-a5db3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450177745944:android:06303157e4740fc7ab2f6d",
+        "android_client_info": {
+          "package_name": "KSDevs.Attendance.System"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBHpC2fiQFIAQ_c1xYu03mqjVo4aERM90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
